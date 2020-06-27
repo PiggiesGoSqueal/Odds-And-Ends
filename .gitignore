@@ -1,0 +1,18 @@
+# Unneeded mod files
+config/enderio/recipes/*
+crafttweaker.log
+
+# Unneeded source files
+.mixin.out
+btfu_backups
+downloads
+libraries
+library
+logs
+mods # Not allowed to include jar files I think. Hence why it is ignored.
+resourcepacks
+saves
+XaeroWaypoints
+.curseclient
+minecraftinstance.json
+options.txt
