@@ -9,7 +9,7 @@ downloads
 libraries
 library
 logs
-mods # Not allowed to include jar files I think. Hence why it is ignored.
+mods/* # Not allowed to include jar files I think. Hence why it is ignored.
 resourcepacks
 saves
 XaeroWaypoints
