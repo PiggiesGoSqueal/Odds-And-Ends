@@ -20,3 +20,7 @@ options.txt
 config/xaeropatreon.txt
 config/xaerominimap.txt
 
+# Ignored file extensions
+*.zip
+*.7z
+*.rar
