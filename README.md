@@ -1,2 +1,2 @@
-# Odds-And-Ends
- A server-friendly modpack that aims to provide a variety of features
+# The Odds and Ends Modpack
+ A server-friendly modpack that aims to provide something for everyone.

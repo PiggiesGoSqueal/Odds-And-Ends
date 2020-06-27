@@ -1,0 +1,19 @@
+{
+    "dimensions": [
+        {
+            "dim": 3,
+            "dimensiontype": {
+                "id": 3,
+                "name": "BoP dimension",
+                "suffix": "_dim3",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderSurfaceJED",
+                "require_exact_match": true
+            },
+            "worldinfo_onetime": {
+                "generatorName": "BIOMESOP",
+                "Difficulty": "normal"
+			}
+        }
+    ]
+}

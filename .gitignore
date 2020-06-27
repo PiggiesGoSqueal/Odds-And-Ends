@@ -2,7 +2,7 @@
 config/enderio/recipes/*
 crafttweaker.log
 
-# Unneeded source files
+# Unneeded source files & client-side files
 # Not allowed to include jar files I think? Hence why the mods folder is ignored.
 .mixin.out/*
 btfu_backups/*
@@ -11,9 +11,12 @@ libraries/*
 llibrary/*
 logs/*
 mods/*
+XaeroWaypoints/*
 resourcepacks/*
 saves/*
-XaeroWaypoints/*
 .curseclient
 minecraftinstance.json
 options.txt
+config/xaeropatreon.txt
+config/xaerominimap.txt
+
