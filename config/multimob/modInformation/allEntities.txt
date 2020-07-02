@@ -81,6 +81,11 @@ minecraft:llama_spit
 minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:chest_passenger
 quark:seat
 quark:gravisand
 quark:pickarang
@@ -97,14 +102,10 @@ quark:ashen
 quark:pirate
 quark:crab
 quark:wraith
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-quark:chest_passenger
 biomesoplenty:mudball
 biomesoplenty:bop_boat
 biomesoplenty:wasp
+clumps:xp_orb_big
 thermalfoundation:blizz
 thermalfoundation:blitz
 thermalfoundation:basalz
@@ -361,5 +362,4 @@ betteranimalsplus:pheasantegg
 betteranimalsplus:turkeyegg
 betteranimalsplus:goose_egg
 betteranimalsplus:golden_goose_egg
-sponge:human
 thermaldynamics:transport

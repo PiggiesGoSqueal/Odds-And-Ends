@@ -9,10 +9,10 @@
 // that exact nbt data (if applicable) and if so put true.
 // No items I've checked have NBT data yet.
 
+
+// Spatial Items (AE2)
 // Format: recipes.remove(output, NBTMatch);
 
-
-// Spatial Items (AE2) - Craft Banned - Lag
 recipes.remove(<appliedenergistics2:spatial_pylon>, false);
 recipes.remove(<appliedenergistics2:spatial_io_port>, false);
 recipes.remove(<appliedenergistics2:spatial_storage_cell_2_cubed>, false);
