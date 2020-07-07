@@ -4,7 +4,7 @@
             "dim": 3,
             "dimensiontype": {
                 "id": 3,
-                "name": "BoP dimension",
+                "name": "BoP Advanced World",
                 "suffix": "_dim3",
                 "keeploaded": false,
                 "worldprovider": "WorldProviderSurfaceJED",
@@ -13,6 +13,21 @@
             "worldinfo_onetime": {
                 "generatorName": "BIOMESOP",
                 "Difficulty": "normal"
+			}
+        },
+        {
+            "dim": 4,
+            "dimensiontype": {
+                "id": 4,
+                "name": "BoP Resource World",
+                "suffix": "_dim4",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderSurfaceJED",
+                "require_exact_match": true
+            },
+            "worldinfo_onetime": {
+                "generatorName": "BIOMESOP",
+                "Difficulty": "peaceful"
 			}
         }
     ]
