@@ -1,0 +1,13 @@
++-----+------------------+--------------------+-----------------+------------------+---------------------------------------------------------------+
+|  ID | DimensionType ID | Name               | shouldLoadSpawn | Currently loaded | WorldProvider class                                           |
++-----+------------------+--------------------+-----------------+------------------+---------------------------------------------------------------+
+|   0 |                0 | overworld          |            true |             true | net.minecraft.world.WorldProviderSurface                      |
+|   1 |                1 | the_end            |           false |            false | net.minecraft.world.WorldProviderEnd                          |
+| 418 |              418 | tartarus           |           false |            false | ipsis.woot.dimension.world.WootWorldProvider                  |
+|   2 |              -11 | Storage Cell       |            true |             true | appeng.spatial.StorageWorldProvider                           |
+|   7 |                7 | twilight_forest    |           false |            false | twilightforest.world.WorldProviderTwilightForest              |
+|  -1 |               -1 | Nether             |           false |            false | logictechcorp.netherex.world.WorldProviderNetherEx            |
+|   4 |                4 | BoP Resource World |           false |            false | fi.dy.masa.justenoughdimensions.world.WorldProviderSurfaceJED |
++-----+------------------+--------------------+-----------------+------------------+---------------------------------------------------------------+
+|  ID | DimensionType ID | Name               | shouldLoadSpawn | Currently loaded | WorldProvider class                                           |
++-----+------------------+--------------------+-----------------+------------------+---------------------------------------------------------------+

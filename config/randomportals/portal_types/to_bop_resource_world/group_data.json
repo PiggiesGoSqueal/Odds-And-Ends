@@ -1,8 +1,6 @@
 {
-	"blacklistAllUndefinedDimensions": false,
-	"activationDimensionIDBlacklist": [
-		4
-	],
+	"blacklistAllUndefinedDimensions": true,
+	"activationDimensionIDBlacklist": [],
 	"defaultDimensionID": 0,
 	"entitySpawns": {}
 }

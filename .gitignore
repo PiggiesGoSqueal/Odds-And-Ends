@@ -7,8 +7,10 @@ crafttweaker.log
 .mixin.out/*
 btfu_backups/*
 downloads/*
+dumps/*
 libraries/*
 llibrary/*
+local/*
 logs/*
 mods/*
 XaeroWaypoints/*
@@ -19,8 +21,18 @@ minecraftinstance.json
 options.txt
 config/xaeropatreon.txt
 config/xaerominimap.txt
+servers.dat
+username.json
+usernamecache.json
+.curseclient
+BotaniaVars.dat
+XaeroWaypoints_BACKUP062020/*
+woot/*
+screenshots/*
+resources/*
 
 # Ignored file extensions
 *.zip
 *.7z
 *.rar
+*.log

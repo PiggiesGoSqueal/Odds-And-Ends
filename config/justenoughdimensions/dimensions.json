@@ -1,10 +1,10 @@
 {
     "dimensions": [
         {
-            "dim": 3,
+            "dim": 0,
             "dimensiontype": {
-                "id": 3,
-                "name": "BoP Advanced World",
+                "id": 0,
+                "name": "BoP Overworld",
                 "suffix": "_dim3",
                 "keeploaded": false,
                 "worldprovider": "WorldProviderSurfaceJED",
@@ -27,7 +27,7 @@
             },
             "worldinfo_onetime": {
                 "generatorName": "BIOMESOP",
-                "Difficulty": "peaceful"
+                "Difficulty": "normal"
 			}
         }
     ]
