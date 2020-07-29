@@ -22,6 +22,7 @@ options.txt
 config/xaeropatreon.txt
 config/xaerominimap.txt
 servers.dat
+mtservers.dat
 username.json
 usernamecache.json
 .curseclient
