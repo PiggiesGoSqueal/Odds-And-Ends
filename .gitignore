@@ -1,11 +1,8 @@
-# Unneeded mod files
-config/enderio/recipes/*
-crafttweaker.log
-
 # Unneeded source files & client-side files
 # Not allowed to include jar files I think? Hence why the mods folder is ignored.
 .mixin.out/*
 btfu_backups/*
+backups/*
 downloads/*
 dumps/*
 libraries/*
@@ -31,6 +28,7 @@ XaeroWaypoints_BACKUP062020/*
 woot/*
 screenshots/*
 resources/*
+crafttweaker.log
 
 # Ignored file extensions
 *.zip
