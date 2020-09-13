@@ -38,8 +38,8 @@
         {
             "text" : "Official Server",
             "posX" : 0,
-            "posY" : -14, #-13
-			"textOffsetX" : -3, #-9
+            "posY" : -14,
+			"textOffsetX" : -3,
             "width" : 98,
             "height" : 14,
             "imageWidth": 652,
@@ -132,7 +132,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://github.com/pinkpig3777/The-Odds-and-Ends-Modpack/issues"
+				"link" : "https://github.com/pinkpig3777/Odds-And-Ends/issues"
             }
         },		
         "language":
@@ -160,7 +160,7 @@
             "text" : "Wiki",
             "posX" : -90,
             "posY" : 0,
-			"textOffsetX" : 25, #20
+			"textOffsetX" : 25,
             "width" : 98,
             "height" : 14,
             "imageWidth": 652,
@@ -172,7 +172,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://github.com/pinkpig3777/The-Odds-and-Ends-Modpack/Wiki"
+				"link" : "https://github.com/PiggiesGoSqueal/Odds-And-Ends/wiki"
             }
         },		
 		"mods":
@@ -180,7 +180,7 @@
             "text" : "Mods",
             "posX" : -90,
             "posY" : 14,
-			"textOffsetX" : 23, #25 was too far right
+			"textOffsetX" : 23,
             "width" : 98,
             "height" : 14,
             "imageWidth": 652,
@@ -200,7 +200,7 @@
             "text" : "Quit",
             "posX" : -90,
             "posY" : 28,
-			"textOffsetX" : 25, #23
+			"textOffsetX" : 25,
             "width" : 98,
             "height" : 14,
             "imageWidth": 652,
@@ -279,6 +279,7 @@
             "slideshow":
             {
                 "images" : [
+								"mainmenu:background/ae2-1.png",
 								"mainmenu:background/bop-1.png",
 								"mainmenu:background/bop-2.png",
 								"mainmenu:background/bop-3.png",
@@ -309,7 +310,6 @@
 								"mainmenu:background/thaumcraft-9.png",
 								"mainmenu:background/ice-and-fire-1.png",
 								"mainmenu:background/ice-and-fire-2.png",
-								"mainmenu:background/ice-and-fire-3.png",
 								"mainmenu:background/ice-and-fire-4.png",
 								"mainmenu:background/ice-and-fire-6.png",
 								"mainmenu:background/ice-and-fire-7.png",
@@ -320,14 +320,15 @@
 								"mainmenu:background/ice-and-fire-14.png",
 								"mainmenu:background/ice-and-fire-15.png",
 								"mainmenu:background/ice-and-fire-16.png",
+								"mainmenu:background/ice-and-fire-17.png",
+								"mainmenu:background/ice-and-fire-18.png",
+								"mainmenu:background/ice-and-fire-19.png",
 								"mainmenu:background/better-animals-plus-1.png",
 								"mainmenu:background/better-animals-plus-2.png",
 								"mainmenu:background/better-animals-plus-4.png",
 								"mainmenu:background/better-animals-plus-8.png",
 								"mainmenu:background/better-animals-plus-9.png",
-								"mainmenu:background/better-animals-plus-1.png",
-								"mainmenu:background/better-animals-plus-10.png",
-								"mainmenu:background/better-animals-plus-11.png"
+								"mainmenu:background/better-animals-plus-10.png"
                             ],
                                 "displayDuration" : 100,
                                 "fadeDuration" : 40,

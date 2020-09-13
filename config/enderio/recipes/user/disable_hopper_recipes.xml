@@ -1,0 +1,6 @@
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+  <!-- Note: The name MUST be the recipe name. Not the output name. (Found in the .pdf file) -->
+  <recipe disabled="true" name="Tweak: Wood Hopper">
+  </recipe>
+  
+</enderio:recipes>

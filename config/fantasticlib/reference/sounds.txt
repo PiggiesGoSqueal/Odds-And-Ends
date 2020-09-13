@@ -954,4 +954,6 @@ thermalexpansion:machine_smelter
 thermalexpansion:machine_crucible
 thermalexpansion:machine_transposer
 thermalexpansion:device_water_gen
+patchouli:book_open
+patchouli:book_flip
 thermaldynamics:duct_transport_woosh

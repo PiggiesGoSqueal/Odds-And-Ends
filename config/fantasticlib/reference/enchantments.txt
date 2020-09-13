@@ -35,11 +35,11 @@ extrautils2:xu.bladerang
 extrautils2:xu.boomereaperang
 endercore:autosmelt
 endercore:xpboost
-enderio:witherweapon
-enderio:witherarrow
-enderio:soulbound
 enderio:shimmer
+enderio:soulbound
 enderio:repellent
+enderio:witherarrow
+enderio:witherweapon
 woot:headhunter
 cofhcore:holding
 cofhcore:insight
